@@ -5,9 +5,10 @@
 Smart contracts worked on, sorted by date descending
 
 Repository | Status | Notes
----------- |:------ |:-----
+:--------- |:------ |:-----
+[SecurityToken](https://github.com/bokkypoobah/SecurityToken) | WIP | Testing ERC 1400, 1410, 1404 implementations
 [BokkyPooBahsTokenTeleportationServiceSmartContract](https://github.com/bokkypoobah/BokkyPooBahsTokenTeleportationServiceSmartContract) | Live on mainnet | BokkyPooBah's Token Teleportation Service smart contracts. Token holders can pay for transaction fees in tokens instead of ETH
-[BokkyPooBahsDateTimeLibrary](https://github.com/bokkypoobah/BokkyPooBahsDateTimeLibrary) | Audit completed but being documented | Smart contract library to convert Unix timestamps to yyyy/mm/dd hh:mm:ss and back
+[BokkyPooBahsDateTimeLibrary](https://github.com/bokkypoobah/BokkyPooBahsDateTimeLibrary) | v1.00 released Sep 2 2018 | Smart contract library to convert Unix timestamps to yyyy/mm/dd hh:mm:ss and back. See [also](https://medium.com/@BokkyPooBah/bokkypoobahs-gas-efficient-solidity-datetime-library-92bf96d9b2da).
 [ClubEth](https://github.com/bokkypoobah/ClubEth) | In development | DAO for clubs
 [Tokens](https://github.com/bokkypoobah/Tokens) | Use for examples | Lots of token contracts
 [ProxyFactoryTest](https://github.com/bokkypoobah/ProxyFactoryTest) | Use for examples | Proxy factory for cheaper cloned contracts
@@ -15,10 +16,9 @@ Repository | Status | Notes
 [DeveryCrowdsale](https://github.com/bokkypoobah/DeveryCrowdsale) | Jan 18 2018 | Fork of [https://github.com/devery/devery_crowdsale](https://github.com/devery/devery_crowdsale)
 [DeveryPresaleContract](https://github.com/bokkypoobah/DeveryPresaleContract) | Dec 02 2017 | Fork of [https://github.com/devery/devery_presale](https://github.com/devery/devery_presale)
 [DeveryContracts](https://github.com/bokkypoobah/DeveryContracts) | Nov 23 2017 | Fork of [https://github.com/devery/devery_contracts](https://github.com/devery/devery_contracts)
-[DaoCasinoTokenSaleContractAudit](https://github.com/bokkypoobah/DaoCasinoTokenSaleContractAudit) | Jun 29 2017 | [Dao.Casino](https://dao.casino/) crowdsale and token contract. Had to rebuild a new token contract due to the Parity multisig hack #1
+[DaoCasinoTokenSaleContractAudit](https://github.com/bokkypoobah/DaoCasinoTokenSaleContractAudit) | Jun 29 2017 | [Dao.Casino](https://dao.casino/) crowdsale and token contract. A new token contract had to be [rebuilt](https://github.com/bokkypoobah/DaoCasinoTokenSaleContractAudit#upgrade-process) due to the Parity multisig hack #1
 [OpenANXToken](https://github.com/bokkypoobah/OpenANXToken) | Jul 4 2017 | Fork of [OAX](https://www.oax.org/) crowdsale and token contract from [https://github.com/openanx/OpenANXToken](https://github.com/openanx/OpenANXToken)
 [TokenTrader](https://github.com/bokkypoobah/TokenTrader) | Apr 25 2017 | [CryptoDerivatives.Market](https://cryptoderivatives.market/) TokenTrader smart contracts
-
 
 <br />
 
@@ -29,9 +29,9 @@ Repository | Status | Notes
 Smart contracts audited, sorted by date descending
 
 Repository | Completion | Notes
----------- |:---------- |:---------
-[OAXSwimGatewayStableCoinContractAudit](https://github.com/bokkypoobah/OAXSwimGatewayStableCoinContractAudit/tree/master/audit) | Work in progress | [OAX](https://www.oax.org/) Swim Gateway stablecoin audit
-[EthereumAlarmClockAudit](https://github.com/bokkypoobah/EthereumAlarmClockAudit/tree/master/audit) | Almost complete | Ethereum Alarm Clock contracts audit
+:--------- |:---------- |:---------
+[OAXSwimGatewayStableCoinContractAudit](https://github.com/bokkypoobah/OAXSwimGatewayStableCoinContractAudit/tree/master/audit) | Sep 20 2018 | [OAX](https://www.oax.org/) Swim Gateway stablecoin audit
+[EthereumAlarmClockAudit](https://github.com/bokkypoobah/EthereumAlarmClockAudit/tree/master/audit) | Aug 27 2018 | Ethereum Alarm Clock contracts audit
 [SvandisCrowdsaleContractAudit](https://github.com/bokkypoobah/SvandisCrowdsaleContractAudit/tree/master/audit) | Jul 31 2018 | [Svandis.io](https://svandis.io/) crowdsale and token contracts audit
 [MakerDAOSaiContractAudit](https://github.com/bokkypoobah/MakerDAOSaiContractAudit/tree/master/audit) | Jun 21 2018 | [MakerDAO](https://makerdao.com/) DAI stablecoin system contracts audit
 [OneLedgerCrowdsaleContractAudit](https://github.com/bokkypoobah/OneLedgerCrowdsaleContractAudit/tree/master/audit) | Jun 14 2018 | [OneLedger](https://oneledger.io/) crowdsale and token contracts audit
@@ -77,7 +77,9 @@ Repository | Completion | Notes
 ## Other
 
 Repository | Status | Notes
----------- |:------ |:-----
+:--------- |:------ |:-----
+[Solidity Flattener](https://github.com/bokkypoobah/SolidityFlattener) | v1.0.0 released Sep 24 2018 | Flatten your Solidity files for source code verification
+[Ethereum For Bunnies](https://github.com/bokkypoobah/EthereumForBunnies) | Commencing | Workshop training materials including exercises
 [BokkyPooBahsEthereumWorkshop wiki](https://github.com/bokkypoobah/BokkyPooBahsEthereumWorkshop/wiki) | Ongoing | [BokkyPooBah's Ethereum Workshop](https://www.meetup.com/BokkyPooBahs-Ethereum-Workshop/) wiki with examples and exercises
 [MasteringEthereum](https://github.com/bokkypoobah/MasteringEthereum) | Almost completed | Fork of Andreas M. Antonopoulos and Gavin Wood's [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) for tech review
 [DecentralisedFutureFundDAO](https://github.com/bokkypoobah/DecentralisedFutureFundDAO) | Commenced | The beginnings of the Decentralised Future Fund
@@ -86,9 +88,17 @@ Repository | Status | Notes
 [ParityMultisigRecoveryReconciliation](https://github.com/bokkypoobah/ParityMultisigRecoveryReconciliation) | July 22 2017 | Parity multisig hack #1 - White Hat Group Rescue reconciliation
 [BadBeef](https://github.com/bokkypoobah/BadBeef) | Jun 2 2017 | Analysis of 67,317 ETH locked up in the [SafeConditionalHFTransfer](https://etherscan.io/address/0x1e143b2588705dfea63a17f2032ca123df995ce0#code) splitting contract - [Statement on QuadrigaCX Ether contract error](https://www.reddit.com/r/ethereum/comments/6ettq5/statement_on_quadrigacx_ether_contract_error/)
 [TokenCardICOAnalysis](https://github.com/bokkypoobah/TokenCardICOAnalysis) | May 9 2017 | Analysis and reconciliation of [TokenCard](https://tokencard.io/)'s crowdsale contract calculation error
+[CustomerDepositFactory](https://github.com/bokkypoobah/CustomerDepositFactory) | May 2 2017 | Create a series of uniquely addressed deposit contracts
+[BokkysCheatsheet](https://github.com/bokkypoobah/BokkysCheatsheet/wiki) | Apr 21 2017 | My cheatsheets
+[TheDAORefundsCalcs](https://github.com/bokkypoobah/TheDAORefundsCalcs) | Apr 14 2017 | Some calculations relating to The DAO ETC refunds
+[EthereumNetworkAttackData](https://github.com/bokkypoobah/EthereumNetworkAttackData) | Nov 24 2016 | Data relating to the Ethereum network attacks between Sep 18 2016 and Oct 20 2016
+[TheDAOETCDrains](https://github.com/bokkypoobah/TheDAOETCDrains) | Sep 6 2016 | Scripts and data related to the draining of The DAO on the Ethereum ETC chain
+[TheDAOData](https://github.com/bokkypoobah/TheDAOData) | Sep 5 2016 | Data related to The DAO including the [Extra Balance Reconcilation](https://github.com/bokkypoobah/TheDAOData/tree/master/ExtraBalTokenValuesReconciliation)
+[TheDAOETHTokenBalance](https://github.com/bokkypoobah/TheDAOETHTokenBalance) | Aug 19 2016 | Scripts and data to compute the balances of The DAO token holders on the hard-forked Ethereum chain
+[TheDAOVoter](https://github.com/bokkypoobah/TheDAOVoter) | Jun 20 2016 | Perl script to list and vote on The DAO proposals
 
 <br />
 
 <br />
 
-(c) BokkyPooBah / Bok Consulting Pty Ltd - Aug 3 2018. The MIT Licence.
+(c) BokkyPooBah / Bok Consulting Pty Ltd - Sep 24 2018. The MIT Licence.
