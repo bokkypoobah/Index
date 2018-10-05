@@ -7,8 +7,9 @@ Smart contracts worked on, sorted by date descending
 Repository | Status | Notes
 :--------- |:------ |:-----
 [SecurityToken](https://github.com/bokkypoobah/SecurityToken) | WIP | Testing ERC 1400, 1410, 1404 implementations
-[BokkyPooBahsTokenTeleportationServiceSmartContract](https://github.com/bokkypoobah/BokkyPooBahsTokenTeleportationServiceSmartContract) | Live on mainnet | BokkyPooBah's Token Teleportation Service smart contracts. Token holders can pay for transaction fees in tokens instead of ETH
+[FxxxLandRush](https://github.com/bokkypoobah/FxxxLandRush) | Oct 05 2018 | GazeCoin FxxxLandRush contracts ready for deployment
 [BokkyPooBahsDateTimeLibrary](https://github.com/bokkypoobah/BokkyPooBahsDateTimeLibrary) | v1.00 released Sep 2 2018 | Smart contract library to convert Unix timestamps to yyyy/mm/dd hh:mm:ss and back. See [also](https://medium.com/@BokkyPooBah/bokkypoobahs-gas-efficient-solidity-datetime-library-92bf96d9b2da).
+[BokkyPooBahsTokenTeleportationServiceSmartContract](https://github.com/bokkypoobah/BokkyPooBahsTokenTeleportationServiceSmartContract) | v1.10 Feb 11 2018 | BokkyPooBah's Token Teleportation Service smart contracts. Token holders can pay for transaction fees in tokens instead of ETH
 [ClubEth](https://github.com/bokkypoobah/ClubEth) | In development | DAO for clubs
 [Tokens](https://github.com/bokkypoobah/Tokens) | Use for examples | Lots of token contracts
 [ProxyFactoryTest](https://github.com/bokkypoobah/ProxyFactoryTest) | Use for examples | Proxy factory for cheaper cloned contracts
