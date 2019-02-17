@@ -1,4 +1,14 @@
+<kbd><img src="images/PrincessLeiaPeachExpelsARainbowBigBang-Index-940x198.png" /></kbd>
+
+<br />
+
+<hr />
+
 # Index To [BokkyPooBah](https://github.com/bokkypoobah)'s Repositories
+
+See [BokkyPooBah's Hall Of Fame And Bug Bounties](https://github.com/bokkypoobah/BokkyPooBahsHallOfFameAndBugBounties) for an active list of bug bounties.
+
+<br />
 
 ## Ethereum Smart Contracts
 
@@ -103,4 +113,4 @@ Repository | Status | Notes
 
 <br />
 
-(c) BokkyPooBah / Bok Consulting Pty Ltd - Sep 24 2018. The MIT Licence.
+(c) BokkyPooBah / Bok Consulting Pty Ltd - Feb 17 2019. The MIT Licence.
