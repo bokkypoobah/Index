@@ -16,7 +16,8 @@ Smart contracts worked on, sorted by date descending
 
 Repository | Status | Notes
 :--------- |:------ |:-----
-[BokkyPooBahsRedBlackTreeLibrary](https://github.com/bokkypoobah/BokkyPooBahsRedBlackTreeLibrary) | WIP | Self-balancing Red-Black binary search tree to maintain a searchable sorted list of entries
+[Weenus Token Faucet](https://github.com/bokkypoobah/WeenusTokenFaucet) | For testing | ERC20 token contracts with an open faucet
+[BokkyPooBahsRedBlackTreeLibrary](https://github.com/bokkypoobah/BokkyPooBahsRedBlackTreeLibrary) | v1.0-pre-release-a Mar 9 2019| Self-balancing Red-Black binary search tree to maintain a searchable sorted list of entries
 [SecurityToken](https://github.com/bokkypoobah/SecurityToken) | WIP | Testing ERC 1400, 1410, 1404 implementations
 [FxxxLandRush](https://github.com/bokkypoobah/FxxxLandRush) | Oct 05 2018 | GazeCoin FxxxLandRush contracts ready for deployment
 [BokkyPooBahsDateTimeLibrary](https://github.com/bokkypoobah/BokkyPooBahsDateTimeLibrary) | v1.00 released Sep 2 2018 | Smart contract library to convert Unix timestamps to yyyy/mm/dd hh:mm:ss and back. See [also](https://medium.com/@BokkyPooBah/bokkypoobahs-gas-efficient-solidity-datetime-library-92bf96d9b2da).
@@ -113,4 +114,4 @@ Repository | Status | Notes
 
 <br />
 
-(c) BokkyPooBah / Bok Consulting Pty Ltd - Feb 17 2019. The MIT Licence.
+(c) BokkyPooBah / Bok Consulting Pty Ltd - Mar 9 2019. The MIT Licence.
