@@ -16,7 +16,8 @@ Smart contracts worked on, sorted by date descending
 
 Repository | Status | Notes
 :--------- |:------ |:-----
-[Weenus Token Faucet](https://github.com/bokkypoobah/WeenusTokenFaucet) | For testing | ERC20 token contracts with an open faucet
+[BokkyPooBah's Fixed Supply Token Factory](https://github.com/bokkypoobah/FixedSupplyTokenFactory) | v1.10 live | Token contract factory / vending machine
+[Weenus Token Faucet](https://github.com/bokkypoobah/WeenusTokenFaucet) | Live | ERC20 token contracts with an open faucet
 [BokkyPooBahsRedBlackTreeLibrary](https://github.com/bokkypoobah/BokkyPooBahsRedBlackTreeLibrary) | v1.0-pre-release-a Mar 9 2019| Self-balancing Red-Black binary search tree to maintain a searchable sorted list of entries
 [SecurityToken](https://github.com/bokkypoobah/SecurityToken) | WIP | Testing ERC 1400, 1410, 1404 implementations
 [FxxxLandRush](https://github.com/bokkypoobah/FxxxLandRush) | Oct 05 2018 | GazeCoin FxxxLandRush contracts ready for deployment
@@ -114,4 +115,4 @@ Repository | Status | Notes
 
 <br />
 
-(c) BokkyPooBah / Bok Consulting Pty Ltd - Mar 9 2019. The MIT Licence.
+(c) BokkyPooBah / Bok Consulting Pty Ltd - Mar 14 2019. The MIT Licence.
