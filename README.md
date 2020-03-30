@@ -44,6 +44,7 @@ Smart contracts audited, sorted by date descending
 
 Repository | Completion | Notes
 :--------- |:---------- |:---------
+[OrbsStakingContractAudit](https://github.com/bokkypoobah/OrbsStakingContractAudit/tree/master/audit) | Mar 30 2020 | [Orbs](https://www.orbs.com/) staking contract audit
 [OAXSwimGatewayStableCoinContractAudit](https://github.com/bokkypoobah/OAXSwimGatewayStableCoinContractAudit/tree/master/audit) | Sep 20 2018 | [OAX](https://www.oax.org/) Swim Gateway stablecoin audit
 [EthereumAlarmClockAudit](https://github.com/bokkypoobah/EthereumAlarmClockAudit/tree/master/audit) | Aug 27 2018 | Ethereum Alarm Clock contracts audit
 [SvandisCrowdsaleContractAudit](https://github.com/bokkypoobah/SvandisCrowdsaleContractAudit/tree/master/audit) | Jul 31 2018 | [Svandis.io](https://svandis.io/) crowdsale and token contracts audit
