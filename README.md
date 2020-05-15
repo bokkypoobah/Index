@@ -16,6 +16,7 @@ Smart contracts worked on, sorted by date descending
 
 Repository | Status | Notes
 :--------- |:------ |:-----
+[Optino Factory](https://github.com/bokkypoobah/Optino) | Work in progress | Fully collateralised vanilla and bounded (capped call and floored put) crypto options 
 [BokkyPooBah's Fixed Supply Token Factory](https://github.com/bokkypoobah/FixedSupplyTokenFactory) | v1.10 live | Token contract factory / vending machine
 [Weenus Token Faucet](https://github.com/bokkypoobah/WeenusTokenFaucet) | Live | ERC20 token contracts with an open faucet
 [BokkyPooBahsRedBlackTreeLibrary](https://github.com/bokkypoobah/BokkyPooBahsRedBlackTreeLibrary) | v1.0-pre-release-a Mar 9 2019| Self-balancing Red-Black binary search tree to maintain a searchable sorted list of entries
